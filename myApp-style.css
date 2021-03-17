@@ -6,4 +6,11 @@ h3 {
     font-size: 25px;
 }
 
+nav a {
+    color: darkslategray;
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+}
+
 
